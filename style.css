@@ -1,0 +1,45 @@
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
+.button{
+    height: 100px;
+    width: 120px;
+    border: 2px solid ;
+    margin-left: 10px;
+    margin: 20px 0 30px 10px;
+}
+.button:hover{
+    border: 2px solid red;
+
+}
+#purple{
+    background-color: purple;
+}
+#aqua{
+    background-color: rgb(161, 222, 222);
+}
+#maroon{
+    background-color: rgb(230, 156, 156);
+}
+#blue{
+    background-color: rgb(130, 96, 224);
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+h1 span{
+    color: orange;
+}
+h2 {
+    align-items: center;
+   margin-left: 40px;
+   margin-top: 40px;
+   color: white;
+}
